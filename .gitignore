@@ -28,3 +28,7 @@ hs_err_pid*
 /.idea/workspace.xml
 /.idea/misc.xml
 /.idea/compiler.xml
+/src/main/resources/log4j.properties
+/log4j2.xml
+/.idea/uiDesigner.xml
+/target/classes/log4j.properties
